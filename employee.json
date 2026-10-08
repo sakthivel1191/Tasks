@@ -1,0 +1,16 @@
+[{
+    "id":1,
+    "name":"sakthi",
+    "department":"Developer"
+},
+{
+    "id":2,
+    "name":"vel",
+    "department":"Tester"
+},
+{
+    "id":3,
+    "name":"Mukil",
+    "department":"Developer"
+}
+]

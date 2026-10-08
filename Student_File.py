@@ -1,0 +1,10 @@
+s=open("students.txt","w")
+s.write("StudentName   Mark\n")
+s.write("------------------\n")
+s.write("Sakthivel      67\n")
+s.write("Sarmi          98\n")
+s.close()
+
+s=open("students.txt","r")
+print(s.read())
+s.close()
